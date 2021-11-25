@@ -1,0 +1,1 @@
+document.write(inputName,"\' has \'\n", numberOfLetters ,"\' characters.!\'\n");
